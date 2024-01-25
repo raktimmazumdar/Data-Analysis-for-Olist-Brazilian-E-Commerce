@@ -42,13 +42,13 @@ The Data Model is shown below:
 
 The dashboard created is shown below- 
 
-## 1. ***Executive Dashboard***
+## ***1. Executive Dashboard***
 ![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Executive%20Dashboard(Main%20Page).JPG)
 
-## 2. ***Customers and Orders Details(Transactions)***
+## ***2. Customers and Orders Details(Transactions)***
 ![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Customers%20and%20Orders%20Details(Transactions).JPG)
 
-## 3. ***Map Visuals***
+## ***3. Map Visuals***
 ![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Map%20Visuals.JPG)
 
 ## G. Report
