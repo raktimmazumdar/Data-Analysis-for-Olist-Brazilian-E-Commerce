@@ -1,4 +1,4 @@
-## ⭐ **Data Analysis for Olist (Brazilian E-Commerce)** ⭐
+# ⭐ ***Data Analysis for Olist (Brazilian E-Commerce)*** ⭐
 
 ## A. Introduction  
 
